@@ -48,3 +48,4 @@ def predict_snake(image_path):
 
 # Example usage
 # predict_snake("example_snake.jpg")
+67800-
